@@ -1,0 +1,17 @@
+C:\Users\MM-5\Downloads\Pemrograman Visual\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\bin\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.exe
+C:\Users\MM-5\Downloads\Pemrograman Visual\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\bin\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.deps.json
+C:\Users\MM-5\Downloads\Pemrograman Visual\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\bin\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.runtimeconfig.json
+C:\Users\MM-5\Downloads\Pemrograman Visual\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\bin\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.dll
+C:\Users\MM-5\Downloads\Pemrograman Visual\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\bin\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.pdb
+C:\Users\MM-5\Downloads\Pemrograman Visual\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\Pertemuan5_Modul_Fungsi_Array.FrmArray.resources
+C:\Users\MM-5\Downloads\Pemrograman Visual\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.vbproj.GenerateResource.cache
+C:\Users\MM-5\Downloads\Pemrograman Visual\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MM-5\Downloads\Pemrograman Visual\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.AssemblyInfoInputs.cache
+C:\Users\MM-5\Downloads\Pemrograman Visual\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.AssemblyInfo.vb
+C:\Users\MM-5\Downloads\Pemrograman Visual\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.vbproj.CoreCompileInputs.cache
+C:\Users\MM-5\Downloads\Pemrograman Visual\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.dll
+C:\Users\MM-5\Downloads\Pemrograman Visual\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\refint\Pertemuan5-Modul-Fungsi-Array.dll
+C:\Users\MM-5\Downloads\Pemrograman Visual\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.pdb
+C:\Users\MM-5\Downloads\Pemrograman Visual\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\Pertemuan5-Modul-Fungsi-Array.genruntimeconfig.cache
+C:\Users\MM-5\Downloads\Pemrograman Visual\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\ref\Pertemuan5-Modul-Fungsi-Array.dll
+C:\Users\MM-5\Downloads\Pemrograman Visual\Pertemuan5-Modul-Fungsi-Array\Pertemuan5-Modul-Fungsi-Array\obj\Debug\net10.0-windows\Pertemua.F5FAB77A.Up2Date
